@@ -6,4 +6,4 @@
   - Mods: space age
   - Naubis rich: 200%
   - Enemies: 200%
-<img width="400" alt="Factorio by sashka" src="https://github.com/user-attachments/assets/08fb5cdb-2df0-424e-9c0c-51ebeed6f126" />
+<img width="950" alt="Factorio by sashka" src="./images/Factorio by sashka.png" />
