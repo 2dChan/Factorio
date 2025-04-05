@@ -9,4 +9,5 @@ Why not to try manage factorio saves via git?
   - Mods: space age
   - Naubis rich: 200%
   - Enemies: 200%
+  - Cheates: Night is disable
 <img alt="Factorio by sashka" src="./images/Factorio by sashka.png" />
